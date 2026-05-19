@@ -24,7 +24,7 @@
 
 ### Proctor Dashboard
 
-![Dashboard](screenshots/Output or dashboard.png)
+![Dashboard](screenshots/dashboard.png)
 
 ---
 
@@ -93,6 +93,8 @@ The `architecture/` folder contains:
 * Technical Architecture Diagram
 * Use Case Diagram
 * Activity Diagram
+* Sequence Diagram
+* Class Diagram
 
 These diagrams represent the monitoring workflow, backend structure, database interaction, and communication between students and the proctor dashboard.
 
@@ -114,8 +116,12 @@ The documentation and presentation files contain simplified pseudo code represen
 * AI behavior analytics
 
 ---
+## Authors
+A. Harshitha
 
+Project Team
 ## Developer
 
-Harshitha Algubelli
+Harshitha Algubelli & Team
+
 B.Tech – Computer Science (AI & ML)
